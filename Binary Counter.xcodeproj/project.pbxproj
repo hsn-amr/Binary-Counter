@@ -16,6 +16,7 @@
 		84BA75DA2760AA5B0078D271 /* Binary_CounterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA75D92760AA5B0078D271 /* Binary_CounterTests.swift */; };
 		84BA75E42760AA5B0078D271 /* Binary_CounterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA75E32760AA5B0078D271 /* Binary_CounterUITests.swift */; };
 		84BA75E62760AA5B0078D271 /* Binary_CounterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA75E52760AA5B0078D271 /* Binary_CounterUITestsLaunchTests.swift */; };
+		84BA75F32760C26B0078D271 /* NumbereViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA75F22760C26B0078D271 /* NumbereViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		84BA75DF2760AA5B0078D271 /* Binary CounterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Binary CounterUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84BA75E32760AA5B0078D271 /* Binary_CounterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binary_CounterUITests.swift; sourceTree = "<group>"; };
 		84BA75E52760AA5B0078D271 /* Binary_CounterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binary_CounterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		84BA75F22760C26B0078D271 /* NumbereViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbereViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				84BA75CB2760AA5B0078D271 /* Assets.xcassets */,
 				84BA75CD2760AA5B0078D271 /* LaunchScreen.storyboard */,
 				84BA75D02760AA5B0078D271 /* Info.plist */,
+				84BA75F22760C26B0078D271 /* NumbereViewCell.swift */,
 			);
 			path = "Binary Counter";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84BA75C72760AA5A0078D271 /* ViewController.swift in Sources */,
+				84BA75F32760C26B0078D271 /* NumbereViewCell.swift in Sources */,
 				84BA75C32760AA5A0078D271 /* AppDelegate.swift in Sources */,
 				84BA75C52760AA5A0078D271 /* SceneDelegate.swift in Sources */,
 			);
